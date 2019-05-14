@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimaryDark">#055a3d</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="backgroundNav">#e6e6e6</color>
+
+    <!--Warna SAMKURIANG-->
+    <color name="black">#000000</color>
+    <color name="yellow">#f5e52e</color>
+    <color name="red">#eb4231</color>
+    <color name="darkBlue">#002031</color>
+    <color name="white">#f5f4ef</color>
+    <color name="grey">#e6e6e6</color>
+    <color name="green">#055a3d</color>
+    <color name="greenOne">#0c823e</color>
+    <color name="greenTwo">#31a05e</color>
 </resources>
